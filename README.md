@@ -2,7 +2,7 @@
 
 *Description*
 
-This project leverages deep learning (EfficientNet-B3) to recognize Moroccan dishes from images and provides detailed nutritional information. The results include:
+Analyzing the nutritional value of Moroccan dishes can be a complex and time-consuming process, especially when done manually. This project leverages state-of-the-art machine learning and language models to recognize Moroccan dishes from images and provide detailed nutritional insights in a user-friendly manner. The results include:
 
 •Dish name
 
